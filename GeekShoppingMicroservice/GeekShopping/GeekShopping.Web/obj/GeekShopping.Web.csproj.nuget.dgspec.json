@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Appito\\Desktop\\Projects\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {}
+    "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Appito\\Desktop\\Projects\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {
+    "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Appito\\Desktop\\Projects\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
         "projectName": "GeekShopping.Web",
-        "projectPath": "C:\\Users\\Appito\\Desktop\\Projects\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "projectPath": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
         "packagesPath": "C:\\Users\\Appito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Appito\\Desktop\\Projects\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.Web\\obj\\",
+        "outputPath": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.0-preview.6.21355.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

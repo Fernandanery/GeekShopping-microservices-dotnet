@@ -1358,11 +1358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Appito\\Desktop\\Projects\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "projectName": "GeekShopping.ProductAPI",
-      "projectPath": "C:\\Users\\Appito\\Desktop\\Projects\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectPath": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "packagesPath": "C:\\Users\\Appito\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Appito\\Desktop\\Projects\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
+      "outputPath": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
