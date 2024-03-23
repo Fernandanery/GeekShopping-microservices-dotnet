@@ -6,8 +6,6 @@ namespace GeekShopping.ProductAPI.Model.Context
     {
         public MySQLContext() {}
         public MySQLContext(DbContextOptions<MySQLContext> options) : base(options) {}
-
-        //public DbSet<Product> Products { get; set; } = new DbSet<Product>();
         public DbSet<Product> Products { get; set; } 
     }
 }
