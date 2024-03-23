@@ -44,10 +44,4 @@ C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroserv
 C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.Web.deps.json
-C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.Web.runtimeconfig.json
-C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.Web.staticwebassets.runtime.json
-C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.Web.exe
 C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.staticwebassets.runtime.json
-C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.Web.dll
-C:\Users\Appito\Desktop\Projetos\erudio-microservices-dotnet\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.Web.pdb
