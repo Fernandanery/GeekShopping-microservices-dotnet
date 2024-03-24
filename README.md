@@ -5,7 +5,7 @@ Este é um projeto de uma loja virtual desenvolvida em .NET 6, com diversos micr
 ## Tecnologias Utilizadas
 - .NET 6
 - C#
-- AspNET Core
+- Asp.NET Core
 - EntityFramework
 - JWT
 - OAUTH 2
