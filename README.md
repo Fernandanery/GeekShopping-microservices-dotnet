@@ -8,7 +8,8 @@ Este é um projeto de uma loja virtual desenvolvida em .NET 6, com diversos micr
 - JWT
 - OAUTH 2
 - OpenID
-- Duende Identity Server
+- Duende Software
+- Identity Server
 - MySQL
 - RabbitMQ
 - API Gateway com Ocelot
