@@ -232,3 +232,11 @@ C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicros
 C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.pdb
 C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.genruntimeconfig.cache
 C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
+C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Appito\Desktop\Projectss\erudio-microservices-dotnet\GeekShoppingMicroservice\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
