@@ -1,9 +1,17 @@
 using Duende.IdentityServer.Services;
 using GeekShopping.IdentityServer.Configuration;
 using GeekShopping.IdentityServer.Initializer;
+using GeekShopping.IdentityServer.Model;
 using GeekShopping.IdentityServer.Model.Context;
+using GeekShopping.IdentityServer.Services;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using System;
 
 namespace GeekShopping.IdentityServer
 {
@@ -37,13 +45,14 @@ namespace GeekShopping.IdentityServer
                     options.Events.RaiseFailureEvents = true;
                     options.Events.RaiseSuccessEvents = true;
                     options.EmitStaticAudienceClaim = true;
-                }).AddInMemoryIdentityResources(IdentityConfiguration.IdentityResources)
+                }).AddInMemoryIdentityResources(
+                        IdentityConfiguration.IdentityResources)
                     .AddInMemoryApiScopes(IdentityConfiguration.ApiScopes)    
                     .AddInMemoryClients(IdentityConfiguration.Clients)
                     .AddAspNetIdentity<ApplicationUser>();
 
             services.AddScoped<IDbInitializer, DbInitializer>();
-            //services.AddScoped<IProfileService, ProfileService>();
+            services.AddScoped<IProfileService, ProfileService>();
 
             builder.AddDeveloperSigningCredential();
 
@@ -71,7 +80,7 @@ namespace GeekShopping.IdentityServer
             app.UseIdentityServer();
             app.UseAuthorization();
 
-            initializer.Initializer();
+            initializer.Initialize();
 
             app.UseEndpoints(endpoints =>
             {

@@ -34,9 +34,8 @@ namespace GeekShopping.Web
                 options.DefaultScheme = "Cookies";
                 options.DefaultChallengeScheme = "oidc";
             })
-
                 .AddCookie("Cookies", c => c.ExpireTimeSpan = TimeSpan.FromMinutes(10))
-                .AddOpenIdConnect("oidc", options =>
+                .AddOpenIdConnect("oidc", options => 
                 {
                     options.Authority = Configuration["ServiceUrls:IdentityServer"];
                     options.GetClaimsFromUserInfoEndpoint = true;
@@ -49,7 +48,8 @@ namespace GeekShopping.Web
                     options.TokenValidationParameters.RoleClaimType = "role";
                     options.Scope.Add("geek_shopping");
                     options.SaveTokens = true;
-                });                
+                }
+            );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -63,9 +63,9 @@ namespace GeekShopping.Web
             {
                 app.UseExceptionHandler("/Home/Error");
             }
-
-            app.UseStaticFiles();
             app.UseHttpsRedirection();
+            app.UseStaticFiles();
+
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();
