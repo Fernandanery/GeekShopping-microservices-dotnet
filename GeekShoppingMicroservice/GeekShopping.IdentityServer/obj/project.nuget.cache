@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZofBk182OEGJgeuIE4rgoT+GUkDehXzajznXL3Twe5XAm+k0sbSikOJznirylpe4+HMQeyGMnWAe4qS1kTAJzA==",
+  "dgSpecHash": "pd5FxcZv2/LNCVaiiZgnCs94nNY1+jfryThvekPNV9tH6nMgL/BvVvbPkAEgUxKt+jMvGM44JH3/S7uzai17uA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
+  "projectFilePath": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Appito\\.nuget\\packages\\duende.identityserver\\5.2.2\\duende.identityserver.5.2.2.nupkg.sha512",
     "C:\\Users\\Appito\\.nuget\\packages\\duende.identityserver.aspnetidentity\\5.2.2\\duende.identityserver.aspnetidentity.5.2.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+JhEglWE0k6aqzEmXpHhnYESpAIVb1lzr04OWuc7ns67xuwvc7zn3isTxPgpZlVguF47jNWZFw/CbSclWoQNGA==",
+  "dgSpecHash": "vAWdTfl/HhW/KQBPMwORC7yL6duuHnH/nbDaeehmsOF9lLFo/0xZf1CwNDGZqFxIrK/vUObaAWU0p4FD1KN1Xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -2437,11 +2437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
+      "projectUniqueName": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
       "projectName": "GeekShopping.IdentityServer",
-      "projectPath": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
+      "projectPath": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
       "packagesPath": "C:\\Users\\Appito\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.IdentityServer\\obj\\",
+      "outputPath": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -2414,11 +2414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "projectName": "GeekShopping.Web",
-      "projectPath": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectPath": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "packagesPath": "C:\\Users\\Appito\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Appito\\Desktop\\Projectss\\erudio-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.Web\\obj\\",
+      "outputPath": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShoppingMicroservice\\GeekShopping.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
