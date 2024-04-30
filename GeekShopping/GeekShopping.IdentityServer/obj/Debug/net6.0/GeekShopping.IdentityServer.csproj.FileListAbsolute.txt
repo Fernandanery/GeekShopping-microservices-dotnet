@@ -1503,6 +1503,7 @@ C:\Users\Appito\Desktop\Projetos\GeekShopping-microservices-dotnet\GeekShopping\
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-2261BAC3E937BDF5AEC42F1202E40A15.json
+C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-573C69697D0E5AC414BE663E3FFD03C2.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-C05AE8661ABF2DC369385ECA35466866.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-DF31EA165EAB902B0E433AB64F803C1F.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-F1B93D306F0B59603B88B7C92937864F.json
@@ -1877,4 +1878,3 @@ C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.pdb
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.genruntimeconfig.cache
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\ref\GeekShopping.IdentityServer.dll
-C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-573C69697D0E5AC414BE663E3FFD03C2.json
