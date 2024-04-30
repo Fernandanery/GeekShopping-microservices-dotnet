@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0KHDo/Vxpf9dbKvhjHBqlzqtjHUJ7ubE3dejusBtSIc=",
+  "Hash": "CvKGbo0KpmnJYCC11r2HE+Kr7QdgQo7o2tIi8qFKCaU=",
   "Source": "GeekShopping.IdentityServer",
   "BasePath": "_content/GeekShopping.IdentityServer",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GeekShopping.IdentityServer\\wwwroot",
       "Source": "GeekShopping.IdentityServer",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\css\\site.css",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\favicon.ico",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\js\\site.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\LICENSE\\LICENSE",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\LICENSE\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE/LICENSE",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\LICENSE\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\bootstrap\\LICENSE\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Appito\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-preview.3.21201.13\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\css\\site.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\css\\site.min.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\css\\site.min.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\css\\site.scss",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\css\\site.scss",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\duende-logo.svg",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\duende-logo.svg",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "duende-logo.svg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\duende-logo.svg"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\favicon.ico",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\js\\signin-redirect.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\js\\signin-redirect.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "js/signin-redirect.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signin-redirect.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\js\\signout-redirect.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\js\\signout-redirect.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "js/signout-redirect.js",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signout-redirect.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\js\\site.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\README.md",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap\\README.md",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap/README.md",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/LICENSE",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.css",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.less",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.min.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.slim.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\README.md",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery\\README.md",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery/README.md",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "GeekShopping.IdentityServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Appito\\Desktop\\Projetos\\GeekShopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\wwwroot\\",
       "BasePath": "_content/GeekShopping.IdentityServer",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

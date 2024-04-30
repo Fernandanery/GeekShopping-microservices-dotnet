@@ -29,8 +29,7 @@ namespace GeekShopping.ProductAPI
 
             IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
             services.AddSingleton(mapper);
-            //TODO: tratar 
-            //services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); 
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); 
 
             services.AddScoped<IProductRepository, ProductRepository>();
 
