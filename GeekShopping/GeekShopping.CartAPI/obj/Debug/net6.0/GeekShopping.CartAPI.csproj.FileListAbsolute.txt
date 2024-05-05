@@ -1,11 +1,3 @@
-C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
-C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfoInputs.cache
-C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfo.cs
-C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CoreCompileInputs.cache
-C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.sourcelink.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\appsettings.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.CartAPI.exe
@@ -34,6 +26,14 @@ C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
+C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfo.cs
+C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.sourcelink.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Rafaela\Desktop\Projects\geekshopping-microservices-dotnet\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.CartAPI.Microsoft.AspNetCore.StaticWebAssets.props

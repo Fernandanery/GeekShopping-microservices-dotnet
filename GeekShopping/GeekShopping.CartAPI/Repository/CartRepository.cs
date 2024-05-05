@@ -24,12 +24,34 @@ namespace GeekShopping.CartAPI.Repository
 
         public async Task<bool> ClearCart(string userID)
         {
-            throw new NotImplementedException();
+            var cartHeader = await _context.CartHeaders.FirstOrDefaultAsync(c => c.UserId == userID);
+
+            if (cartHeader != null)
+            {
+                _context.CartDetails.RemoveRange(_context.CartDetails.Where(c => c.CartHeaderId == cartHeader.Id));
+
+                _context.CartHeaders.Remove(cartHeader); 
+                
+                await _context.SaveChangesAsync();
+
+                return true;
+
+            }
+
+            return false;
+
         }
 
         public async Task<CartVO> FindCartByUserID(string userID)
         {
-            throw new NotImplementedException();
+            Cart cart = new()
+            {
+                CartHeader = await _context.CartHeaders.FirstOrDefaultAsync(c => c.UserId == userID),
+            };
+            cart.CartDetails = _context.CartDetails.Where(c => c.CartHeaderId == cart.CartHeader.Id)
+                .Include(c => c.Product);
+
+            return _mapper.Map<CartVO>(cart);
         }
 
         public async Task<bool> RemoveCoupon(string userID)
@@ -39,7 +61,31 @@ namespace GeekShopping.CartAPI.Repository
 
         public async Task<bool> RemoveFromCart(long cartDetailsID)
         {
-            throw new NotImplementedException();
+            try
+            {
+                CartDetail cartDetail = await _context.CartDetails.FirstOrDefaultAsync(c => c.Id == cartDetailsID);
+
+                int total = _context.CartDetails.Where(c => c.CartHeaderId == cartDetail.CartHeaderId).Count();
+
+                _context.CartDetails.Remove(cartDetail);
+
+                if (total == 1)
+                {
+                    var cartHeaderToRemove = await _context.CartHeaders.FirstOrDefaultAsync(c => c.Id == cartDetail.CartHeaderId);
+
+                    _context.CartHeaders.Remove(cartHeaderToRemove);
+
+                }
+
+                _context.SaveChangesAsync();
+
+                return true;
+            }
+            catch (Exception)
+            {
+
+                return false;
+            }
         }
 
         public async Task<CartVO> SaveOrUpdateCart(CartVO vo)
