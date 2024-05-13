@@ -1,14 +1,18 @@
 ﻿using GeekShopping.CartAPI.Data.ValueObjects;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace GeekShopping.CartAPI.Repository
 {
     public interface ICartRepository
     {
-        Task<CartVO> FindCartByUserID(string userID);
+        Task<CartVO> FindCartByUserId(string userId);
         Task<CartVO> SaveOrUpdateCart(CartVO cart);
-        Task<bool> RemoveFromCart(long cartDetailsID);
-        Task<bool> ApplyCoupon(string userID, string couponCode);
-        Task<bool> RemoveCoupon(string userID);
-        Task<bool> ClearCart(string userID);
+        Task<bool> RemoveFromCart(long cartDetailsId);
+        Task<bool> ApplyCoupon(string userId, string couponCode);
+        Task<bool> RemoveCoupon(string userId);
+        Task<bool> ClearCart(string userId);
     }
 }

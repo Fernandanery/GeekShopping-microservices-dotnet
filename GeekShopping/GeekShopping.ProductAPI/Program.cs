@@ -1,4 +1,4 @@
-namespace GeekShopping.ProductAPI
+﻿namespace GeekShopping.ProductAPI
 {
     public class Program
     {

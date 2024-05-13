@@ -51,15 +51,15 @@
             },
             "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
               "target": "Package",
-              "version": "[6.0.0-preview.7.21378.6, )"
+              "version": "[6.0.13, )"
             },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[6.0.0-preview.6.21355.2, )"
+              "version": "[6.0.13, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[6.12.2, )"
+              "version": "[6.26.0, )"
             }
           },
           "imports": [

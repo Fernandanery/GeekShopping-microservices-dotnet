@@ -2,9 +2,11 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
+#nullable disable
+
 namespace GeekShopping.IdentityServer.Migrations
 {
-    public partial class AddDefaultSecurityTablesOnDB : Migration
+    public partial class identityServerDatabase : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

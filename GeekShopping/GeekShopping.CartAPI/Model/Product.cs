@@ -24,12 +24,12 @@ namespace GeekShopping.CartAPI.Model
         [StringLength(500)]
         public string Description { get; set; }
 
-        [Column("categoryName")]
+        [Column("category_name")]
         [StringLength(50)]
         public string CategoryName { get; set; }
 
         [Column("image_url")]
         [StringLength(300)]
-        public string ImageUrl { get; set; }
+        public string ImageURL { get; set; }
     }
 }

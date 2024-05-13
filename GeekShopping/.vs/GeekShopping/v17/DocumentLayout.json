@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{D8447209-B3B7-4737-8F26-F5BC5B9E73BA}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8447209-B3B7-4737-8F26-F5BC5B9E73BA}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\rafaela\\desktop\\projects\\geekshopping-microservices-dotnet\\geekshopping\\geekshopping.web\\utils\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8447209-B3B7-4737-8F26-F5BC5B9E73BA}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\utils\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{466D26F9-865A-4844-9183-5442E2382CBB}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|c:\\users\\rafaela\\desktop\\projects\\geekshopping-microservices-dotnet\\geekshopping\\geekshopping.identityserver\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466D26F9-865A-4844-9183-5442E2382CBB}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8447209-B3B7-4737-8F26-F5BC5B9E73BA}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\rafaela\\desktop\\projects\\geekshopping-microservices-dotnet\\geekshopping\\geekshopping.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8447209-B3B7-4737-8F26-F5BC5B9E73BA}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8447209-B3B7-4737-8F26-F5BC5B9E73BA}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\rafaela\\desktop\\projects\\geekshopping-microservices-dotnet\\geekshopping\\geekshopping.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8447209-B3B7-4737-8F26-F5BC5B9E73BA}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6859E3E-7B61-46EF-8873-C54A38656B74}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|c:\\users\\rafaela\\desktop\\projects\\geekshopping-microservices-dotnet\\geekshopping\\geekshopping.cartapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6859E3E-7B61-46EF-8873-C54A38656B74}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|solutionrelative:geekshopping.cartapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8447209-B3B7-4737-8F26-F5BC5B9E73BA}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\rafaela\\desktop\\projects\\geekshopping-microservices-dotnet\\geekshopping\\geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,33 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.CartAPI\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.CartAPI\\Controllers\\CartController.cs",
-              "RelativeToolTip": "GeekShopping.CartAPI\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAowAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:05:37.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HttpClientExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
-              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
-              "RelativeToolTip": "GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAewA8AAAAvAAAA",
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\Initializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\Initializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.IdentityServer\\Initializer\\DbInitializer.cs",
+              "RelativeToolTip": "GeekShopping.IdentityServer\\Initializer\\DbInitializer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwCIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:55:28.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T18:08:43.139Z"
             },
             {
               "$type": "Document",
@@ -66,10 +52,22 @@
               "RelativeDocumentMoniker": "GeekShopping.Web\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.Web\\Services\\ProductService.cs",
               "RelativeToolTip": "GeekShopping.Web\\Services\\ProductService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAtwCAAAAAMAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:17:30.199Z",
+              "WhenOpened": "2024-05-13T18:00:37.961Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Services\\IServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Services\\IServices\\IProductService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAtwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:00:06.671Z"
             },
             {
               "$type": "Document",
@@ -79,23 +77,21 @@
               "RelativeDocumentMoniker": "GeekShopping.Web\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.Web\\Controllers\\ProductController.cs",
               "RelativeToolTip": "GeekShopping.Web\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAewFIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:16:16.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T17:47:00.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GeekShopping.Web\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projects\\geekshopping-microservices-dotnet\\GeekShopping\\GeekShopping.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "GeekShopping.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAArwCUAAAAMAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:15:59.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T17:46:01.605Z"
             }
           ]
         }

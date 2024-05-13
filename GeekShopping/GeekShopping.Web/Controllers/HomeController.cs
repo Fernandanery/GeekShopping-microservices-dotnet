@@ -1,10 +1,10 @@
 ﻿using GeekShopping.Web.Models;
-using GeekShopping.Web.Services;
 using GeekShopping.Web.Services.IServices;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -18,7 +18,9 @@ namespace GeekShopping.Web.Controllers
         private readonly IProductService _productService;
         private readonly ICartService _cartService;
 
-        public HomeController(ILogger<HomeController> logger, IProductService productService, ICartService cartService)
+        public HomeController(ILogger<HomeController> logger,
+            IProductService productService,
+            ICartService cartService)
         {
             _logger = logger;
             _productService = productService;
@@ -35,13 +37,13 @@ namespace GeekShopping.Web.Controllers
         public async Task<IActionResult> Details(int id)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
-            var products = await _productService.FindProductById(id, token);
-            return View(products);
+            var model = await _productService.FindProductById(id, token);
+            return View(model);
         }
 
-        [Authorize]
         [HttpPost]
         [ActionName("Details")]
+        [Authorize]
         public async Task<IActionResult> DetailsPost(ProductViewModel model)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
@@ -66,12 +68,10 @@ namespace GeekShopping.Web.Controllers
             cart.CartDetails = cartDetails;
 
             var response = await _cartService.AddItemToCart(cart, token);
-
-            if (response != null)
+            if(response != null)
             {
                 return RedirectToAction(nameof(Index));
-            };
-
+            }
             return View(model);
         }
 
@@ -89,7 +89,6 @@ namespace GeekShopping.Web.Controllers
         [Authorize]
         public async Task<IActionResult> Login()
         {
-            // pegando o token da sessão
             var accessToken = await HttpContext.GetTokenAsync("access_token");
             return RedirectToAction(nameof(Index));
         }

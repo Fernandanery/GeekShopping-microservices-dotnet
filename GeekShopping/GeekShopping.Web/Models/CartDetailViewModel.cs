@@ -1,8 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-
-namespace GeekShopping.Web.Models
+﻿namespace GeekShopping.Web.Models
 {
-    [Table("cart_detail")]
     public class CartDetailViewModel
     {
         public long Id { get; set; }
@@ -10,7 +7,7 @@ namespace GeekShopping.Web.Models
         public CartHeaderViewModel CartHeader { get; set; }
         public long ProductId { get; set; }
         public ProductViewModel Product { get; set; }
-        public int Count { get; set; }
 
+        public int Count { get; set; }
     }
 }

@@ -2,9 +2,16 @@
 using GeekShopping.CartAPI.Config;
 using GeekShopping.CartAPI.Model.Context;
 using GeekShopping.CartAPI.Repository;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using System;
+using System.Collections.Generic;
 
 namespace GeekShopping.CartAPI
 {
@@ -80,7 +87,7 @@ namespace GeekShopping.CartAPI
                         Name = "Bearer",
                         In = ParameterLocation.Header
                     },
-                    new List<string> ()
+                    new List<string>()
                 }
 
             });
